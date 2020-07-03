@@ -82,11 +82,11 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### `QuizDashboard` as shown below :
 
-![PlayDashboard](/screenShots/locked.png "QuizDashboard")
-
 [1] . Each one of them represents a navigational button that represents as well a `Quiz` level, arranged from left to right.
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
+
+![PlayDashboard](/screenShots/locked.png "QuizDashboard")
 
 ##### When all the levels unlocked :
 
@@ -102,7 +102,11 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ![Quiz level](/screenShots/QuizLevel01.png "Quiz level")
 
+##### When the child clicks the right letter :
+
 ![Quiz level](/screenShots/QuizLevel01.1.png "Quiz level")
+
+##### When the child clicks the wrong letter :
 
 ![Quiz level](/screenShots/QuizLevel01.2.png "Quiz level")
 
