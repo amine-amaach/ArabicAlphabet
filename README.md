@@ -95,19 +95,19 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To play online using your browser : 
 
-[ArabicAlphabetWebGl/]()
+[ArabicAlphabetWebGl/](https://amine-amaach.github.io/Learn-Alphabets/)
 
 ### To install the game on your Andriod device : 
 
-[ArabicAlphabetAndriod/]()
+[ArabicAlphabetAndriod/](https://amine-amaach.github.io/ArabicAlphabet-Android)
 
 ### To install the game on your IOS device : 
 
-[ArabicAlphabetIOS/]()
+[ArabicAlphabetIOS/](https://amine-amaach.github.io/)
 
 ### To install the game on your Windows pc : 
 
-[ArabicAlphabetWindows/]()
+[ArabicAlphabetWindows/](https://amine-amaach.github.io/ArabicAlphabet-Windows)
 
 # Oweners :
 
