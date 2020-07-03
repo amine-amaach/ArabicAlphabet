@@ -52,7 +52,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ##### When all the levels unlocked :
 
-![Unlocked levels](/screenShots/unlockedPlay.png "Unlocked levels")
+![Unlocked levels](/screenShots/unlocked-Play.png "Unlocked levels")
 
 ### `Learn` level as shown below :
 
