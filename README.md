@@ -48,11 +48,11 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
 
-![PlayDashboard](/screenShots/locked.png "PlayDashboard")
+![PlayDashboard](/screenShots/lockedPlay.png "PlayDashboard")
 
 ##### When all the levels unlocked :
 
-![Unlocked levels](/screenShots/unlocked.png "Unlocked levels")
+![Unlocked levels](/screenShots/unlockedPlay.png "Unlocked levels")
 
 ### `Learn` level as shown below :
 
@@ -86,11 +86,11 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
 
-![PlayDashboard](/screenShots/locked.png "QuizDashboard")
+![PlayDashboard](/screenShots/lockedQuiz.png "QuizDashboard")
 
 ##### When all the levels unlocked :
 
-![Unlocked levels](/screenShots/unlocked.png "Unlocked levels") 
+![Unlocked levels](/screenShots/unlockedQuiz.png "Unlocked levels") 
 
 ### `Quiz` level as shown below :
 
@@ -130,7 +130,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### `About` as shown below :
 
-![About]("About")
+![About](/screenShots/About.png "About")
 
 # Install the game 
 
