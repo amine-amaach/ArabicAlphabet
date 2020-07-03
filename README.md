@@ -81,12 +81,15 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### `Settings` as shown below :
 
-![Quiz level]("Quiz level")
+![Settings]("Settings")
 
 [1] . A controller that controls the background music volume. [2] . A navigational button takes the player to `About`
 
 [3] . A navigational button to `Exit`.
 
+### `About` as shown below :
+
+![About]("About")
 
 # Install the game 
 
