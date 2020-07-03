@@ -34,43 +34,65 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### `Menu` as shown below :
 
-![Menu](https://www.fusionconnect.com/sites/fusionconnect/assets/Image/blog/blog111218-mbps.jpg "Menu")
 
 [1] . A navigational button takes the player to `PlayDashboard`. [2] . A navigational button takes the player to `QuizDashboard`.
 
 [3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
 
+![Menu](/screenShots/Menu.png "Menu")
+
 
 ### `PlayDashboard` as shown below :
-
-![PlayDashboard]("PlayDashboard")
 
 [1] . Each one of them represents a navigational button that represents as well a `Learn` level, arranged from left to right.
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
 
+![PlayDashboard](/screenShots/locked.png "PlayDashboard")
 
-### `QuizDashboard` as shown below :
+##### When all the levels unlocked :
 
-![PlayDashboard]("QuizDashboard")
-
-[1] . Each one of them represents a navigational button that represents as well a `Quiz` level, arranged from left to right.
-
-[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
-
+![Unlocked levels](/screenShots/unlocked.png "Unlocked levels")
 
 ### `Learn` level as shown below :
-
-![Learn level]("Learn level")
 
 [1] . Represents a letter, that when it gets clicked, the character and the sounds associated to it will show up on the board.
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
 
+![Learn level](/screenShots/PlayLevel01.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel01.1.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel02.1.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel03.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel03.1.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel04.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel04.1.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel06.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel07.png "Learn level")
+
+![Learn level](/screenShots/PlayLevel07.1.png "Learn level")
+
+### `QuizDashboard` as shown below :
+
+[1] . Each one of them represents a navigational button that represents as well a `Quiz` level, arranged from left to right.
+
+[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
+
+![PlayDashboard](/screenShots/locked.png "QuizDashboard")
+
+##### When all the levels unlocked :
+
+![Unlocked levels](/screenShots/unlocked.png "Unlocked levels") 
 
 ### `Quiz` level as shown below :
-
-![Quiz level]("Quiz level")
 
 [1] . Represents the character that the child should figure out which letter is related to it.
 
@@ -78,14 +100,33 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
 
+![Quiz level](/screenShots/QuizLevel01.png "Quiz level")
+
+##### When the child clicks the right letter :
+
+![Quiz level](/screenShots/QuizLevel01.1.png "Quiz level")
+
+##### When the child clicks the wrong letter :
+
+![Quiz level](/screenShots/QuizLevel01.2.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel03.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel05.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel06.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel06.1.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel07.png "Quiz level")
 
 ### `Settings` as shown below :
-
-![Settings]("Settings")
 
 [1] . A controller that controls the background music volume. [2] . A navigational button takes the player to `About`
 
 [3] . A navigational button to `Exit`.
+
+![Settings](/screenShots/Settings.png "Settings")
 
 ### `About` as shown below :
 
@@ -95,7 +136,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To play online using your browser : 
 
-[ArabicAlphabetWebGl/](https://amine-amaach.github.io/Learn-Alphabets/)
+[ArabicAlphabetWebGl/](https://amine-amaach.github.io/ArabicAlphabet-Web/)
 
 ### To install the game on your Andriod device : 
 
@@ -103,7 +144,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To install the game on your IOS device : 
 
-[ArabicAlphabetIOS/](https://amine-amaach.github.io/)
+[ArabicAlphabetIOS/](https://github.com/amine-amaach/ArabicAlphabet/)
 
 ### To install the game on your Windows pc : 
 
