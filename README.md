@@ -46,7 +46,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [1] . Each one of them represents a navigational button that represents as well a `Learn` level, arranged from left to right.
 
-[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
+[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to go back to `Menu`.
 
 ![PlayDashboard](/screenShots/lockedPlay.png "PlayDashboard")
 
@@ -58,11 +58,15 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [1] . Represents a letter, that when it gets clicked, the character and the sounds associated to it will show up on the board.
 
-[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
+[2] . A navigational button takes the player to the next `Learn` level. 
+
+[3] . A navigational button takes the player to `Settings`.  [4] . A navigational button to go back to `PlayDashboard`. 
 
 ![Learn level](/screenShots/PlayLevel01.png "Learn level")
 
 ![Learn level](/screenShots/PlayLevel01.1.png "Learn level")
+
+[5] . A navigational button takes the player to the previous `Learn` level.  [6] . A navigational button takes the player to the next `Learn` level. 
 
 ![Learn level](/screenShots/PlayLevel02.1.png "Learn level")
 
@@ -94,15 +98,19 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### `Quiz` levels as shown below :
 
-[1] . Represents the character that the child should figure out which letter is related to it.
+[1] . Represents the letters that contains the right letter related to the character in [2] and the child should figure it out.
 
-[2] . Represents the letters that contains the right letter related to the character in [1] . and the child should figure it out.
+[2] . Represents the character that the child should figure out which letter is related to it.
 
-[3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
+[3] . A navigational button takes the player to `Settings`.  [4] . A navigational button  to go back to `QuizDashboard`.
 
 ![Quiz level](/screenShots/QuizLevel01.png "Quiz level")
 
 ##### When the child clicks the right letter :
+
+[1] . A navigational button to retry the current `Quiz` level.  
+
+[3] . A navigational button takes the player to the previous `Quiz` level.  [2] . A navigational button takes the player to the next `Quiz` level. 
 
 ![Quiz level](/screenShots/QuizLevel01.1.png "Quiz level")
 
