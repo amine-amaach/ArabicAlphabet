@@ -7,7 +7,7 @@ The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) (al-ʾabjad
 
 
 ## What is Montessori ?
-The Montessori Method was developed by [Dr.Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) in the early 1900s. It’s a specific child-centered method of education that involves child-led activities , classrooms with children of varying ages and teachers who encourage independence among their pupils.
+The Montessori Method was developed by **[Dr.Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)** in the early 1900s. It’s a specific child-centered method of education that involves child-led activities , classrooms with children of varying ages and teachers who encourage independence among their pupils.
 
 ## Develepment
 The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) which is a cross-platform game engine developed by `Unity Technologies`,as well fewer libraries were included, and the main programming language used is `C#`.
@@ -28,4 +28,92 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 - Beautiful background Musics and a smooth transition when changing between the sections in the game.
 - The game is light-weight and availible on Andriod, IOS, Windows and as a web application.
 
-## How to use 
+## How to use, game structure
+#### The game has three main parts `Menu`, `PlayDashboard` and `QuizDashboard` :
+##### `Menu` as shown below :
+
+![Menu](https://www.fusionconnect.com/sites/fusionconnect/assets/Image/blog/blog111218-mbps.jpg "Menu")
+
+[1] . A navigational button takes the player to `PlayDashboard`. [2] . A navigational button takes the player to `QuizDashboard`.
+
+[3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
+
+
+##### `PlayDashboard` as shown below :
+
+![PlayDashboard]("PlayDashboard")
+
+[1] . Each one of them represents a navigational button that represents as well a `Learn` level, arranged from left to right.
+
+[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
+
+
+##### `QuizDashboard` as shown below :
+
+![PlayDashboard]("QuizDashboard")
+
+[1] . Each one of them represents a navigational button that represents as well a `Quiz` level, arranged from left to right.
+
+[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
+
+
+##### `Learn` level as shown below :
+
+![Learn level]("Learn level")
+
+[1] . Represents a letter, that when it gets clicked, the character and the sounds associated to it will show up on the board.
+
+[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
+
+
+##### `Quiz` level as shown below :
+
+![Quiz level]("Quiz level")
+
+[1] . Represents the character that the child should figure out which letter is related to it.
+
+[2] . Represents the letters that contains the right letter related to the character in [1] . and the child should figure it out.
+
+[3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
+
+
+##### `Settings` as shown below :
+
+![Quiz level]("Quiz level")
+
+[1] . A controller that controls the background music volume. [2] . A navigational button takes the player to `About`
+
+[3] . A navigational button to `Exit`.
+
+
+# Install the game 
+
+### To play online using your browser : 
+
+[ArabicAlphabetWebGl]()
+
+### To install the game on your Andriod device : 
+
+[ArabicAlphabetAndriod]()
+
+### To install the game on your IOS device : 
+
+[ArabicAlphabetIOS]()
+
+### To install the game on your Windows pc : 
+
+[ArabicAlphabetWindows]()
+
+# Oweners :
+
+**[Aalloul Outman](https://www.linkedin.com/in/outmane-aalloul-39860814b/)** Student at Cadi Ayyad University. 
+
+
+**[Amaach Amine](https://www.linkedin.com/in/amine-amaach/)** Student at Cadi Ayyad University.
+
+# Special thanks to our professors :
+
+**[Pr El Hassan Abdelwahed](https://www.linkedin.com/in/el-hassan-abdelwahed-88403320/)** Professor at Cadi Ayyad University.
+
+
+**[Dr Aimad QAZDAR](https://www.linkedin.com/in/aimad-qazdar-2957181a/)** Assistant Professor at Cadi Ayyad University.
