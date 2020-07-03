@@ -90,11 +90,9 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ##### When all the levels unlocked :
 
-![Unlocked levels](/screenShots/unlocked.png "Unlocked levels")
+![Unlocked levels](/screenShots/unlocked.png "Unlocked levels") 
 
 ### `Quiz` level as shown below :
-
-![Quiz level]("Quiz level")
 
 [1] . Represents the character that the child should figure out which letter is related to it.
 
@@ -102,14 +100,29 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
 
+![Quiz level](/screenShots/QuizLevel01.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel01.1.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel01.2.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel03.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel05.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel06.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel06.1.png "Quiz level")
+
+![Quiz level](/screenShots/QuizLevel07.png "Quiz level")
 
 ### `Settings` as shown below :
-
-![Settings]("Settings")
 
 [1] . A controller that controls the background music volume. [2] . A navigational button takes the player to `About`
 
 [3] . A navigational button to `Exit`.
+
+![Settings](/screenShots/Settings.png "Settings")
 
 ### `About` as shown below :
 
@@ -119,7 +132,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To play online using your browser : 
 
-[ArabicAlphabetWebGl/](https://amine-amaach.github.io/Learn-Alphabets/)
+[ArabicAlphabetWebGl/](https://amine-amaach.github.io/ArabicAlphabet-Web/)
 
 ### To install the game on your Andriod device : 
 
@@ -127,7 +140,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To install the game on your IOS device : 
 
-[ArabicAlphabetIOS/](https://amine-amaach.github.io/)
+[ArabicAlphabetIOS/](https://github.com/amine-amaach/ArabicAlphabet/)
 
 ### To install the game on your Windows pc : 
 
