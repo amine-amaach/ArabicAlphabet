@@ -48,13 +48,13 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
 
-![PlayDashboard](/screenShots/locked.png "PlayDashboard")
+![PlayDashboard](/screenShots/lockedPlay.png "PlayDashboard")
 
 ##### When all the levels unlocked :
 
-![Unlocked levels](/screenShots/unlocked.png "Unlocked levels")
+![Unlocked levels](/screenShots/unlocked-Play.png "Unlocked levels")
 
-### `Learn` level as shown below :
+### `Learn` levels as shown below :
 
 [1] . Represents a letter, that when it gets clicked, the character and the sounds associated to it will show up on the board.
 
@@ -86,13 +86,13 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
 
-![PlayDashboard](/screenShots/locked.png "QuizDashboard")
+![PlayDashboard](/screenShots/lockedQuiz.png "QuizDashboard")
 
 ##### When all the levels unlocked :
 
-![Unlocked levels](/screenShots/unlocked.png "Unlocked levels") 
+![Unlocked levels](/screenShots/unlockedQuiz.png "Unlocked levels") 
 
-### `Quiz` level as shown below :
+### `Quiz` levels as shown below :
 
 [1] . Represents the character that the child should figure out which letter is related to it.
 
@@ -130,7 +130,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### `About` as shown below :
 
-![About]("About")
+![About](/screenShots/About.png "About")
 
 # Install the game 
 
