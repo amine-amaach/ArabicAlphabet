@@ -29,8 +29,10 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 - The game is light-weight and availible on Andriod, IOS, Windows and as a web application.
 
 ## How to use, game structure
-#### The game has three main parts `Menu`, `PlayDashboard` and `QuizDashboard` :
-##### `Menu` as shown below :
+
+### The game has three main parts `Menu`, `PlayDashboard` and `QuizDashboard` :
+
+### `Menu` as shown below :
 
 ![Menu](https://www.fusionconnect.com/sites/fusionconnect/assets/Image/blog/blog111218-mbps.jpg "Menu")
 
@@ -39,7 +41,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 [3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
 
 
-##### `PlayDashboard` as shown below :
+### `PlayDashboard` as shown below :
 
 ![PlayDashboard]("PlayDashboard")
 
@@ -48,7 +50,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
 
 
-##### `QuizDashboard` as shown below :
+### `QuizDashboard` as shown below :
 
 ![PlayDashboard]("QuizDashboard")
 
@@ -57,7 +59,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
 
 
-##### `Learn` level as shown below :
+### `Learn` level as shown below :
 
 ![Learn level]("Learn level")
 
@@ -66,7 +68,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 [2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`.
 
 
-##### `Quiz` level as shown below :
+### `Quiz` level as shown below :
 
 ![Quiz level]("Quiz level")
 
@@ -77,7 +79,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 [3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
 
 
-##### `Settings` as shown below :
+### `Settings` as shown below :
 
 ![Quiz level]("Quiz level")
 
@@ -90,19 +92,19 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To play online using your browser : 
 
-[ArabicAlphabetWebGl]()
+[ArabicAlphabetWebGl/]()
 
 ### To install the game on your Andriod device : 
 
-[ArabicAlphabetAndriod]()
+[ArabicAlphabetAndriod/]()
 
 ### To install the game on your IOS device : 
 
-[ArabicAlphabetIOS]()
+[ArabicAlphabetIOS/]()
 
 ### To install the game on your Windows pc : 
 
-[ArabicAlphabetWindows]()
+[ArabicAlphabetWindows/]()
 
 # Oweners :
 
@@ -111,7 +113,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 **[Amaach Amine](https://www.linkedin.com/in/amine-amaach/)** Student at Cadi Ayyad University.
 
-# Special thanks to our professors :
+# Special thanks to our supervisors :
 
 **[Pr El Hassan Abdelwahed](https://www.linkedin.com/in/el-hassan-abdelwahed-88403320/)** Professor at Cadi Ayyad University.
 
