@@ -1,6 +1,10 @@
 # Arabic Alphabet - An educational game to learn Arabic alphabet
 This project is about a serious game that aims to help children from three to six years old learn and become familiar with the Arabic alphabet.The game was built and developed based on the Montessori pedagogy, espaicially the book ["Teach Me How To Do It Myself : Montessori Activities for You and Your Child"](https://www.amazon.com/Teach-Me-Myself-Montessori-Activities/dp/0764127896) by `Maja Pitamic`.
 
+## Youtube video :
+
+[![Menu](https://img.youtube.com/vi/3-_1-D3tuIg/maxresdefault.jpg "Youtube")](https://youtu.be/3-_1-D3tuIg)
+
 
 ## What is Arabic alphabet?
 The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) (al-ʾabjadīyaḧ l-ʿarabīyah or Arabic abjad), is the Arabic script as it is codified for writing Arabic. It is written from right to left in a cursive style and includes 28 letters.
@@ -152,7 +156,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To install the game on your IOS device : 
 
-[ArabicAlphabetIOS/](https://github.com/amine-amaach/ArabicAlphabet/)
+[ArabicAlphabetIOS/](https://github.com/amine-amaach/ArabicAlphabet/) `To be added`
 
 ### To install the game on your Windows pc : 
 
