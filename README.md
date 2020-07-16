@@ -174,4 +174,4 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 **[Pr El Hassan Abdelwahed](https://www.linkedin.com/in/el-hassan-abdelwahed-88403320/)** Professor at Cadi Ayyad University.
 
 
-**[Dr Aimad QAZDAR](https://www.linkedin.com/in/aimad-qazdar-2957181a/)** Assistant Professor at Cadi Ayyad University.
+**[Pr Aimad QAZDAR](https://www.linkedin.com/in/aimad-qazdar-2957181a/)** Assistant Professor at Cadi Ayyad University.
