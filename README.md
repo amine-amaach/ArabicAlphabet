@@ -3,7 +3,7 @@ This project is about a serious game that aims to help children from three to si
 
 ## Youtube video :
 
-[![Menu](https://img.youtube.com/vi/3-_1-D3tuIg/maxresdefault.jpg "Youtube")](https://youtu.be/3-_1-D3tuIg)
+[![Menu](https://github.com/amine-amaach/ArabicAlphabet/blob/master/screenShots/PlayOnYoutube.png?raw=true)](https://youtu.be/3-_1-D3tuIg)
 
 
 ## What is Arabic alphabet?
