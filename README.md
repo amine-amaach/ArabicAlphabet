@@ -152,7 +152,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ### To install the game on your Andriod device : 
 
-[ArabicAlphabetAndriod/](https://amine-amaach.github.io/ArabicAlphabet-Android)
+[ArabicAlphabetAndriod/](https://github.com/amine-amaach/ArabicAlphabet-Android)
 
 ### To install the game on your IOS device : 
 
