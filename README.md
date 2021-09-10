@@ -168,10 +168,3 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 
 **[Amaach Amine](https://www.linkedin.com/in/amine-amaach/)** Student at Cadi Ayyad University.
-
-# Special thanks to our supervisors :
-
-**[Pr El Hassan Abdelwahed](https://www.linkedin.com/in/el-hassan-abdelwahed-88403320/)** Professor at Cadi Ayyad University.
-
-
-**[Pr Aimad QAZDAR](https://www.linkedin.com/in/aimad-qazdar-2957181a/)** Assistant Professor at Cadi Ayyad University.
